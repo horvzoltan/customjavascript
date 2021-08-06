@@ -1,0 +1,27 @@
+[
+ {
+   "Name": "Patriot",
+   "Slug": "patriot",
+   "Brand": "Jeep"
+ },
+ {
+   "Name": "Cherokee",
+   "Slug": "cherokee",
+   "Brand": "Jeep"
+ },
+ {
+   "Name": "Yaris",
+   "Slug": "yaris",
+   "Brand": "Toyota"
+ },
+ {
+   "Name": "C-HR",
+   "Slug": "c-hr",
+   "Brand": "Toyota"
+ },
+ {
+   "Name": "Landcruiser",
+   "Slug": "landcruiser",
+   "Brand": "Toyota"
+ }
+]
